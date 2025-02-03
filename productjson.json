@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1",
+    "name": "Coco Wash ",
+    "title": "Detergent Coco Wash",
+    "benefits": [
+      "No Chemicals, Preservatives, or Artificial Fragrances.",
+      "Removes 99.9% of Pathogens.",
+      "Safe for Sensitive Skin.",
+      "Suitable for All Types of Clothes.",
+      "Safe for Us, Pets & Mother Earth.",
+      "Free of Sulfates, SLS, SLES, Dyes, Optical Brighteners, Parabens, Glycols, and phosphates.",
+      "Conserves Water.",
+      "Rejuvenates the Water Bodies"
+    ],
+    "ingredients": [
+      "Citrus",
+      "Neem & Soapnut Bio Enzyme",
+      "Naturally Derived Gum & Coconut Based Surfactant"
+    ],
+    "img": "",
+    "category": ["homecare"],
+    "price": "soon"
+  },
+  {
+    "id": "2",
+    "name": "Coco Bloom ",
+    "title":"Face Wash",
+    "benefits": [
+      "It keeps brightness skin.",
+      "Gives golden glow to complexion.",
+      "Bleaches the face naturally.",
+      "Reduces pigmentation, tan & wrinkles.",
+      "It fights acne."
+    ],
+    "ingredients": [
+      "Citrus Peels",
+      "Reetha",
+      "Aloevera",
+      "Neem",
+      "Turmeric",
+      "Coconut Based Surfactant",
+      "Gondkatira"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579075/bodywash_mockup_o1ndo9.jpg",
+    "category": ["healthcare"],
+    "price": "soon"
+  },
+  {
+    "id": "3",
+    "name": "Coco Sentry ",
+    "title": "Hand Sanitizer",
+    "benefits": [
+      "Make Germs Free Hand.",
+      "Keep Hands Soft & Moisturized.",
+      "It Cures skin related diseases in hands.",
+      "Ideal for whole family including kids.",
+      "Eco Friendly."
+    ],
+    "ingredients": [
+      "Citrus Peels",
+      "Turmeric",
+      "Aloevera",
+      "Neem Bio Enzyme"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579076/sanitizer_mockup_qyamo7.jpg",
+    "category": ["healthcare"],"price": "soon"
+  },
+  {
+    "id": "4",
+    "name": "Coco Blossom",
+    "title":"Body Wash",
+    "benefits": [
+      "Protection from Germs.",
+      "Great on Skin.",
+      "PH Balance.",
+      "Nourished and Moisturized Skin.",
+      "Improved Skin Texture.",
+      "Soothes and Calms the Skin.",
+      "Suitable for All Skin Types."
+    ],
+    "ingredients": [
+      "Citrus",
+      "Neem",
+      "Haldi",
+      "Alovera Bio Enzymes",
+      "Multani Mitti",
+      "Natural Foaming Agent"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579075/bodywash_mockup_o1ndo9.jpg",
+    "category": ["healthcare"],
+    "price": "soon"
+  },
+  {
+    "id": "5",
+    "name": "Coco Bliss",
+    "title": "Facial Serum",
+    "benefits": [
+      "It keeps brightness skin.",
+      "Anti-wrinkle.",
+      "Natural antioxidant.",
+      "Reduced dark spot & pigmentation.",
+      "Plant based amino blend.",
+      "Boost collagen production.",
+      "Naturally lifts and firms your skin.",
+      "Smoother brighter and healthier.",
+      "Youthfull complexion.",
+      "Suitable for all skin types."
+    ],
+    "ingredients": [
+      "Citrus",
+      "Neem",
+      "Haldi",
+      "Alovera Bio Enzymes",
+      "Rice Water"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579076/serum_mockup_psd_ba0xq3.jpg",
+    "category": ["healthcare"],
+    "price": "soon"
+  },
+  {
+    "id": "6",
+    "name": "Coco sheens",
+    "title": "Shampoo",
+    "benefits": [
+      "Make hair Shiny & Silky.",
+      "Make Dandruff Free hair.",
+      "Make thick and Long hair.",
+      "Prevent Hair fall.",
+      "Removes boils, pimples & wond etc. in the scalp."
+    ],
+    "ingredients": [
+      "Rosemary",
+      "Methidana",
+      "Reetha",
+      "Aloevera",
+      "Aamla",
+      "Shikakai",
+      "Curry leaves",
+      "Hibiscus",
+      "Kalonji",
+      "Plant Based Surfactant",
+      "Multani Mitti"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579075/shampoo_mockup_pz0cyy.jpg",
+    "category": ["healthcare"],
+    "price": "soon"
+  },
+  {
+    "id": "7",
+    "name": "Coco Tranquil ",
+    "title": "Roll On",
+    "benefits": [
+      "Fast Pain Relief",
+      "On-the-Go Use",
+      "Soothing & Cooling",
+      "Targeted Application"
+    ],
+    "ingredients": [
+      "Clove",
+      "Ajwain",
+      "Kapoor",
+      "Mint"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579073/rollon_mockup_mj7qg6.jpg",
+    "category": ["healthcare"],
+    "price": "soon"
+  },
+  {
+    "id": "8",
+    "name": "Coco Vanquish",
+    "title": "Toilet Cleaner",
+    "benefits": [
+      "Removes 99.9% germs",
+      "Skin friendly",
+      "Eco friendly"
+    ],
+    "ingredients": [
+      "Neem",
+      "Soapnut",
+      "Citrus Fruit Skin",
+      "Gondkatira",
+      "Food colour",
+      "Natural Citronella",
+      "Natural Coco Glucoside"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738581302/tc_mockup_xsu8i0.jpg",
+    "category": ["homecare"],
+    "price": "soon"
+  },
+  {
+    "id": "9",
+    "name": "Coco Soap",
+    "title": " Soap",
+    "benefits": [
+      "Healthy Skin",
+      "Safe for All",
+      "Eco-Friendly",
+      "Papaya Extract gently exfoliates to remove dead skin cells.",
+      "Coconut Oil and Cocoglucoside deeply moisturize and nourish the skin."
+    ],
+    "ingredients": [
+      "Coconut oil",
+      "Cocoglucaside",
+      "Alovera",
+      "Papaya extract"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579180/soap_vbxxvs.jpg",
+    "category": ["healthcare"],
+    "price": "soon"
+  },
+  {
+    "id": "10",
+    "name": "Charcoal Soap",
+    "title": " Soap",
+    "benefits": [
+      "Healthy Skin",
+      "Safe for All",
+      "Eco-Friendly",
+      "Papaya Extract gently exfoliates to remove dead skin cells.",
+      "Coconut Oil and Cocoglucoside deeply moisturize and nourish the skin."
+    ],
+    "ingredients": [
+      "Coconut oil",
+      "Cocoglucaside",
+      "Alovera",
+      "Papaya extract"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579180/soap_vbxxvs.jpg",
+    "category": ["healthcare"],
+    "price": "soon"
+  },
+  {
+    "id": "11",
+    "name": "Coco श्री श्री",
+    "title": " Coco Oil",
+    "benefits": [
+      "Moisturizes and Nourishes Dry Skin",
+      "Reduces the Appearance of Wrinkles",
+      "Conditions and Strengthens Hair",
+      "Promotes Hair Growth",
+      "Help With Dendruff"
+    ],
+    "ingredients": [
+      "Made of coconuts - As natural as the nature served"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738583063/WhatsApp_Image_2025-01-27_at_10.53.28_AM_nqdwkb.jpg",
+    "category": ["healthcare"],
+    "price": "soon"
+  },
+  {
+    "id": "12",
+    "name": "Coco Bee",
+    "title": "Honey",
+    "benefits": [
+      "Rich in Antioxidants",
+      "Regulates Blood Suger Level",
+      "Boots Immunity",
+      "Improve Digestive Health",
+      "Promotes Healthy Skin",
+      "Supports Weight Loss",
+      "Good For Heart Health",
+      "Aids in Wound Healing"
+    ],
+    "ingredients": [
+      "Natural Honey"
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738585732/Add_a_little_bit_of_body_text_vvrm0m.jpg",
+    "category": ["healthcare"]
+    ,"price": "soon"
+  }
+]
