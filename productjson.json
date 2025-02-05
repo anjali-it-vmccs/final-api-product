@@ -4,8 +4,8 @@
     "name": "Coco श्री Wash",
     "title": "Liquid Detergent",
     "mrp": {
-      "500ml": "299",
-      "1000ml": "599"
+      "500ml": "₹ 299",
+      "1000ml": "₹ 599"
     },
     "benefits": [
       "No Chemicals, Preservatives, or Artificial Fragrances.",
@@ -30,7 +30,7 @@
     "name": "Coco Blooms ",
     "title":"Face Wash",
     "mrp": {
-      "200ml": "299"
+      "200ml": "₹ 299"
     },
     "benefits": [
       "It keeps brightness skin.",
@@ -56,7 +56,7 @@
     "name": "Coco श्री Sentry ",
     "title": "Hand Sanitizer",
     "mrp": {
-      "200ml": "199"
+      "200ml": "₹ 199"
     },
     "benefits": [
       "Make Germs Free Hand.",
@@ -79,7 +79,7 @@
     "name": "Coco BBlossom",
     "title":"Body Wash",
     "mrp": {
-      "200ml": "299"
+      "200ml": "₹ 299"
         },
     "benefits": [
       "Protection from Germs.",
@@ -106,7 +106,7 @@
     "name": "Coco Bliiss",
     "title": "Facial Serum",
     "mrp": {
-      "30ml": "299"
+      "30ml": "₹ 299"
         },
     "benefits": [
       "It keeps brightness skin.",
@@ -135,7 +135,7 @@
     "name": "Coco Sheens",
     "title": "Shampoo",
     "mrp": {
-      "200ml": "299"
+      "200ml": "₹ 299"
         },
     "benefits": [
       "Make hair Shiny & Silky.",
@@ -158,16 +158,15 @@
       "Multani Mitti"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579075/shampoo_mockup_pz0cyy.jpg",
-    "category": ["healthcare"],
-    "price": "soon"
+    "category": ["healthcare"]
   },
   {
     "id": "7",
     "name": "Coco Tranquil ",
     "title": "Roll On",
     "mrp": {
-      "6ml": "100",
-      "10ml": "149"
+      "6ml": "₹ 100",
+      "10ml": "₹ 149"
         },
     "benefits": [
       "Fast Pain Relief",
@@ -182,15 +181,14 @@
       "Mint"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579073/rollon_mockup_mj7qg6.jpg",
-    "category": ["healthcare"],
-    "price": "soon"
+    "category": ["healthcare"]
   },
   {
     "id": "8",
     "name": "Coco Vanquish",
     "title": "Toilet Cleaner",
     "mrp": {
-      "500ml": "199"
+      "500ml": "₹ 199"
         },
     "benefits": [
       "Removes 99.9% germs",
@@ -237,7 +235,7 @@
     "name": "TropiCoco",
     "title": "Charcoal Soap",
     "mrp": {
-      "50gm": "139"
+      "50gm": "₹ 139"
         },
     "benefits": [
       "Healthy Skin",
@@ -253,15 +251,14 @@
       "Papaya extract"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579180/soap_vbxxvs.jpg",
-    "category": ["healthcare"],
-    "price": "soon"
+    "category": ["healthcare"]
   },
   {
     "id": "11",
     "name": "Coco श्री श्री",
     "title": " Coconut Oil",
     "mrp": {
-      "200gm": "199"
+      "200gm": "₹ 199"
         },
     "benefits": [
       "Moisturizes and Nourishes Dry Skin",
@@ -274,12 +271,14 @@
       "Made of coconuts - As natural as the nature served"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738583063/WhatsApp_Image_2025-01-27_at_10.53.28_AM_nqdwkb.jpg",
-    "category": ["healthcare"],
-    "price": "soon"
+    "category": ["healthcare"]
   },
   {
     "id": "12",
     "name": "Coco Bee",
+    "mrp": {
+      "Coming": "Soon"
+        },
     "title": "Honey",
     "benefits": [
       "Rich in Antioxidants",
@@ -296,6 +295,5 @@
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738585732/Add_a_little_bit_of_body_text_vvrm0m.jpg",
     "category": ["healthcare"]
-    ,"price": "soon"
   }
 ]
