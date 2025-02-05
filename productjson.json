@@ -1,8 +1,12 @@
 [
   {
     "id": "1",
-    "name": "Coco Wash ",
-    "title": "Detergent Coco Wash",
+    "name": "Coco श्री Wash",
+    "title": "Liquid Detergent",
+    "mrp": {
+      "500ml": "299",
+      "1000ml": "599"
+    },
     "benefits": [
       "No Chemicals, Preservatives, or Artificial Fragrances.",
       "Removes 99.9% of Pathogens.",
@@ -19,13 +23,15 @@
       "Naturally Derived Gum & Coconut Based Surfactant"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738586574/Free_Detergent_White_Bottle_PSD_Label_Mockup_copy_pmh50c.jpg",
-    "category": ["homecare"],
-    "price": "soon"
-  },
+    "category": ["homecare"]
+  },  
   {
     "id": "2",
-    "name": "Coco Bloom ",
+    "name": "Coco Blooms ",
     "title":"Face Wash",
+    "mrp": {
+      "200ml": "299"
+    },
     "benefits": [
       "It keeps brightness skin.",
       "Gives golden glow to complexion.",
@@ -43,13 +49,15 @@
       "Gondkatira"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579133/IMG_20250131_175622_1_owbkdm.jpg",
-    "category": ["healthcare"],
-    "price": "soon"
+    "category": ["healthcare"]
   },
   {
     "id": "3",
-    "name": "Coco Sentry ",
+    "name": "Coco श्री Sentry ",
     "title": "Hand Sanitizer",
+    "mrp": {
+      "200ml": "199"
+    },
     "benefits": [
       "Make Germs Free Hand.",
       "Keep Hands Soft & Moisturized.",
@@ -68,8 +76,11 @@
   },
   {
     "id": "4",
-    "name": "Coco Blossom",
+    "name": "Coco BBlossom",
     "title":"Body Wash",
+    "mrp": {
+      "200ml": "299"
+        },
     "benefits": [
       "Protection from Germs.",
       "Great on Skin.",
@@ -88,13 +99,15 @@
       "Natural Foaming Agent"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579075/bodywash_mockup_o1ndo9.jpg",
-    "category": ["healthcare"],
-    "price": "soon"
+    "category": ["healthcare"]
   },
   {
     "id": "5",
-    "name": "Coco Bliss",
+    "name": "Coco Bliiss",
     "title": "Facial Serum",
+    "mrp": {
+      "30ml": "299"
+        },
     "benefits": [
       "It keeps brightness skin.",
       "Anti-wrinkle.",
@@ -115,13 +128,15 @@
       "Rice Water"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579076/serum_mockup_psd_ba0xq3.jpg",
-    "category": ["healthcare"],
-    "price": "soon"
+    "category": ["healthcare"]
   },
   {
     "id": "6",
-    "name": "Coco sheens",
+    "name": "Coco Sheens",
     "title": "Shampoo",
+    "mrp": {
+      "200ml": "299"
+        },
     "benefits": [
       "Make hair Shiny & Silky.",
       "Make Dandruff Free hair.",
@@ -150,6 +165,10 @@
     "id": "7",
     "name": "Coco Tranquil ",
     "title": "Roll On",
+    "mrp": {
+      "6ml": "100",
+      "10ml": "149"
+        },
     "benefits": [
       "Fast Pain Relief",
       "On-the-Go Use",
@@ -170,6 +189,9 @@
     "id": "8",
     "name": "Coco Vanquish",
     "title": "Toilet Cleaner",
+    "mrp": {
+      "500ml": "199"
+        },
     "benefits": [
       "Removes 99.9% germs",
       "Skin friendly",
@@ -185,13 +207,15 @@
       "Natural Coco Glucoside"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738581302/tc_mockup_xsu8i0.jpg",
-    "category": ["homecare"],
-    "price": "soon"
+    "category": ["homecare"]
   },
   {
     "id": "9",
-    "name": "Coco Soap",
-    "title": " Soap",
+    "name": "TropiCoco ",
+    "title": " coco Soap",
+    "mrp": {
+      "50gm": "105"
+        },
     "benefits": [
       "Healthy Skin",
       "Safe for All",
@@ -206,13 +230,15 @@
       "Papaya extract"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579180/soap_vbxxvs.jpg",
-    "category": ["healthcare"],
-    "price": "soon"
+    "category": ["healthcare"]
   },
   {
     "id": "10",
-    "name": "Charcoal Soap",
-    "title": " Soap",
+    "name": "TropiCoco",
+    "title": "Charcoal Soap",
+    "mrp": {
+      "50gm": "139"
+        },
     "benefits": [
       "Healthy Skin",
       "Safe for All",
@@ -233,7 +259,10 @@
   {
     "id": "11",
     "name": "Coco श्री श्री",
-    "title": " Coco Oil",
+    "title": " Coconut Oil",
+    "mrp": {
+      "200gm": "199"
+        },
     "benefits": [
       "Moisturizes and Nourishes Dry Skin",
       "Reduces the Appearance of Wrinkles",
