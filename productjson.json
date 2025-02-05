@@ -72,7 +72,7 @@
       "Neem Bio Enzyme"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738579076/sanitizer_mockup_qyamo7.jpg",
-    "category": ["healthcare"],"price": "soon"
+    "category": ["healthcare"]
   },
   {
     "id": "4",
@@ -294,6 +294,23 @@
       "Natural Honey"
     ],
     "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738585732/Add_a_little_bit_of_body_text_vvrm0m.jpg",
+    "category": ["healthcare"]
+  },
+  {
+    "id": "13",
+    "name": "Coco Ayurdent",
+    
+    "mrp": {
+      "50 gm": "₹ 99"
+        },
+    "title": "Dant Manjan",
+    "benefits": [
+      "These ingredients combined are often used in Ayurvedic tooth powders or oral care products to improve gum health, fight bacterial infections, and maintain overall oral hygiene. They can help strengthen teeth, prevent bad breath, and reduce inflammation in the gums."
+    ],
+    "ingredients": [
+      "Vajradanti, Laung, Neem, Guggul, Amla, Baheda, Harad, Kalimirch, Pipli, Sooth, Fitkari, Sauf, Ajwain, Activated Charcoal, koraka Seed, Bakul, Tommer Seed, Haldi, Babbool, Kapur, Manjistha, Likorice, Black Salt, Sea Salt,Elichi tooth powder "
+    ],
+    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1738765151/Coco_Ayurdent_1_g7rvg9.png",
     "category": ["healthcare"]
   }
 ]
