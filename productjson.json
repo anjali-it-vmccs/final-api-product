@@ -4,8 +4,8 @@
     "name": "Coco श्री Wash",
     "title": "Liquid Detergent",
     "mrp": {
-      "500ml": "₹ 299",
-      "1000ml": "₹ 599"
+      "500ml": "299",
+      "1000ml": "599"
     },
     "benefits": [
       "No Chemicals, Preservatives, or Artificial Fragrances.",
@@ -22,15 +22,18 @@
       "Neem & Soapnut Bio Enzyme",
       "Naturally Derived Gum & Coconut Based Surfactant"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/Free_Detergent_White_Bottle_PSD_Label_Mockup_copy-removebg-preview_cxzrq8.png",
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/Free_Detergent_White_Bottle_PSD_Label_Mockup_copy-removebg-preview_cxzrq8.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609557/detergent_copy_hwuudc.jpg"
+    ],
     "category": ["homecare"]
-  },  
+  },
   {
     "id": "2",
     "name": "Coco Blooms ",
-    "title":"Face Wash",
+    "title": "Face Wash",
     "mrp": {
-      "200ml": "₹ 299"
+      "200ml": " 299"
     },
     "benefits": [
       "It keeps brightness skin.",
@@ -48,7 +51,10 @@
       "Coconut Based Surfactant",
       "Gondkatira"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/face_wash_website_copy-removebg-preview_horctt.png",
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/face_wash_website_copy-removebg-preview_horctt.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609556/face_wash_copy_zgvls7.jpg"
+    ],
     "category": ["healthcare"]
   },
   {
@@ -56,7 +62,7 @@
     "name": "Coco श्री Sentry ",
     "title": "Hand Sanitizer",
     "mrp": {
-      "200ml": "₹ 199"
+      "200ml": " 199"
     },
     "benefits": [
       "Make Germs Free Hand.",
@@ -65,22 +71,20 @@
       "Ideal for whole family including kids.",
       "Eco Friendly."
     ],
-    "ingredients": [
-      "Citrus Peels",
-      "Turmeric",
-      "Aloevera",
-      "Neem Bio Enzyme"
+    "ingredients": ["Citrus Peels", "Turmeric", "Aloevera", "Neem Bio Enzyme"],
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/sanitizer_mockup-removebg-preview_tf3pah.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609556/hand_sanitizer_copy_drbovs.jpg"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/sanitizer_mockup-removebg-preview_tf3pah.png",
     "category": ["healthcare"]
   },
   {
     "id": "4",
     "name": "Coco BBlossom",
-    "title":"Body Wash",
+    "title": "Body Wash",
     "mrp": {
-      "200ml": "₹ 299"
-        },
+      "200ml": " 299"
+    },
     "benefits": [
       "Protection from Germs.",
       "Great on Skin.",
@@ -98,7 +102,10 @@
       "Multani Mitti",
       "Natural Foaming Agent"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/bdy_wsh-removebg-preview_bx7xzj.png",
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/bdy_wsh-removebg-preview_bx7xzj.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609555/product_dsg_coco_body_wash_copy_uwibhe.jpg"
+    ],
     "category": ["healthcare"]
   },
   {
@@ -106,8 +113,8 @@
     "name": "Coco Bliiss",
     "title": "Facial Serum",
     "mrp": {
-      "30ml": "₹ 299"
-        },
+      "30ml": " 299"
+    },
     "benefits": [
       "It keeps brightness skin.",
       "Anti-wrinkle.",
@@ -127,7 +134,10 @@
       "Alovera Bio Enzymes",
       "Rice Water"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007583/serum_mockup_psd-removebg-preview_xqahnk.png",
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007583/serum_mockup_psd-removebg-preview_xqahnk.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609556/product_dsg_coco_faceial_serum_copy_oo1hkp.jpg"
+    ],
     "category": ["healthcare"]
   },
   {
@@ -135,8 +145,8 @@
     "name": "Coco Sheens",
     "title": "Shampoo",
     "mrp": {
-      "200ml": "₹ 299"
-        },
+      "200ml": " 299"
+    },
     "benefits": [
       "Make hair Shiny & Silky.",
       "Make Dandruff Free hair.",
@@ -157,7 +167,10 @@
       "Plant Based Surfactant",
       "Multani Mitti"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/shampoo_web-removebg-preview_hy19r2.png",
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/shampoo_web-removebg-preview_hy19r2.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609556/product_dsg_coco_shampoo_copy_zmbmnw.jpg"
+    ],
     "category": ["healthcare"]
   },
   {
@@ -165,22 +178,20 @@
     "name": "Coco Tranquil ",
     "title": "Roll On",
     "mrp": {
-      "6ml": "₹ 100",
-      "10ml": "₹ 149"
-        },
+      "6ml": " 100",
+      "10ml": " 149"
+    },
     "benefits": [
       "Fast Pain Relief",
       "On-the-Go Use",
       "Soothing & Cooling",
       "Targeted Application"
     ],
-    "ingredients": [
-      "Clove",
-      "Ajwain",
-      "Kapoor",
-      "Mint"
+    "ingredients": ["Clove", "Ajwain", "Kapoor", "Mint"],
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/roll_on_website_copy6-removebg-preview_edqgmv.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609555/rolll_on_copy_v7eh6g.jpg"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739013506/roll_on_website_copy6-removebg-preview_edqgmv.png",
     "category": ["healthcare"]
   },
   {
@@ -188,13 +199,9 @@
     "name": "Coco Vanquish",
     "title": "Toilet Cleaner",
     "mrp": {
-      "500ml": "₹ 199"
-        },
-    "benefits": [
-      "Removes 99.9% germs",
-      "Skin friendly",
-      "Eco friendly"
-    ],
+      "500ml": " 199"
+    },
+    "benefits": ["Removes 99.9% germs", "Skin friendly", "Eco friendly"],
     "ingredients": [
       "Neem",
       "Soapnut",
@@ -204,7 +211,10 @@
       "Natural Citronella",
       "Natural Coco Glucoside"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/tc_mockup-removebg-preview_dad6wb.png",
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/tc_mockup-removebg-preview_dad6wb.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609561/toilet_cleaner_copy_iu076a.jpg"
+    ],
     "category": ["homecare"]
   },
   {
@@ -213,7 +223,7 @@
     "title": " coco Soap",
     "mrp": {
       "50gm": "105"
-        },
+    },
     "benefits": [
       "Healthy Skin",
       "Safe for All",
@@ -227,7 +237,10 @@
       "Alovera",
       "Papaya extract"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/soap-removebg-preview_bigcby.png",
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/soap-removebg-preview_bigcby.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609555/tropicoco_soap_copy_nvjksw.jpg"
+    ],
     "category": ["healthcare"]
   },
   {
@@ -235,8 +248,8 @@
     "name": "TropiCoco",
     "title": "Charcoal Soap",
     "mrp": {
-      "50gm": "₹ 139"
-        },
+      "50gm": " 139"
+    },
     "benefits": [
       "Healthy Skin",
       "Safe for All",
@@ -250,7 +263,9 @@
       "Alovera",
       "Papaya extract"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/soap-removebg-preview_bigcby.png",
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007582/soap-removebg-preview_bigcby.png"
+    ],
     "category": ["healthcare"]
   },
   {
@@ -258,8 +273,8 @@
     "name": "Coco श्री श्री",
     "title": " Coconut Oil",
     "mrp": {
-      "200gm": "₹ 199"
-        },
+      "200gm": " 199"
+    },
     "benefits": [
       "Moisturizes and Nourishes Dry Skin",
       "Reduces the Appearance of Wrinkles",
@@ -267,10 +282,12 @@
       "Promotes Hair Growth",
       "Help With Dendruff"
     ],
-    "ingredients": [
-      "Made of coconuts - As natural as the nature served"
+    "ingredients": ["Made of coconuts - As natural as the nature served"],
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739015264/coconut_oil_web-removebg-preview_qanxb8.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739609557/coconut_hair_oil_copy_fuaxba.jpg"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739015264/coconut_oil_web-removebg-preview_qanxb8.png",
+
     "category": ["healthcare"]
   },
   {
@@ -278,7 +295,7 @@
     "name": "Coco Bee",
     "mrp": {
       "Coming": "Soon"
-        },
+    },
     "title": "Honey",
     "benefits": [
       "Rich in Antioxidants",
@@ -290,19 +307,20 @@
       "Good For Heart Health",
       "Aids in Wound Healing"
     ],
-    "ingredients": [
-      "Natural Honey"
+    "ingredients": ["Natural Honey"],
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/honey-removebg-preview_pbkcyt.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/honey-removebg-preview_pbkcyt.png"
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/honey-removebg-preview_pbkcyt.png",
     "category": ["healthcare"]
   },
   {
     "id": "13",
     "name": "Coco Ayurdent",
-    
+
     "mrp": {
-      "50 gm": "₹ 99"
-        },
+      "50 gm": " 99"
+    },
     "title": "Dant Manjan",
     "benefits": [
       "These ingredients combined are often used in Ayurvedic tooth powders or oral care products to improve gum health, fight bacterial infections, and maintain overall oral hygiene. They can help strengthen teeth, prevent bad breath, and reduce inflammation in the gums."
@@ -310,7 +328,10 @@
     "ingredients": [
       "Vajradanti, Laung, Neem, Guggul, Amla, Baheda, Harad, Kalimirch, Pipli, Sooth, Fitkari, Sauf, Ajwain, Activated Charcoal, koraka Seed, Bakul, Tommer Seed, Haldi, Babbool, Kapur, Manjistha, Likorice, Black Salt, Sea Salt,Elichi tooth powder "
     ],
-    "img": "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/Coco_Ayurdent-removebg-preview_ykvzii.png",
+    "img": [
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/Coco_Ayurdent-removebg-preview_ykvzii.png",
+      "https://res.cloudinary.com/dsadsgkzg/image/upload/v1739007581/Coco_Ayurdent-removebg-preview_ykvzii.png"
+    ],
     "category": ["healthcare"]
   }
 ]
